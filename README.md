@@ -1,6 +1,7 @@
 ## Olá, seja bem-vindo ao meu perfil!
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdeoliveira&count_private=true&theme=dark&card_width=1000px)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdeoliveira&layout=compact&card_width=999px)](https://github.com/gsdeoliveira/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
