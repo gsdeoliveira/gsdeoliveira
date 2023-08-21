@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdeoliveira&show_icons=true&theme=dark&card_width=1000px)
 ![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdeoliveira&count_private=true&langs_count=7&hide=html&layout=compact&card_width=1000px)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gsdeoliveira&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gsdeoliveira&custom_title=This%20is%20a%20title&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
