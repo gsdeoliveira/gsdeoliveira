@@ -1,7 +1,7 @@
 ## Hi, welcome to my profile!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdeoliveira&show_icons=true&theme=dark&card_width=1000px)
-![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdeoliveira&count_private=true&langs_count=7&hide=html&layout=compact&card_width=1000px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdeoliveira&hide_progress=false&layout=compact&card_width=1000px)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gsdeoliveira&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
